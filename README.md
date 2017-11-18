@@ -12,7 +12,7 @@ Simple PHP command class.
 ## Install
 
 ```
-composer require iuliann/rapture-command
+composer require mrjulio/rapture-command
 ```
 
 ## Quick start
